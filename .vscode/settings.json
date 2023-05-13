@@ -1,0 +1,9 @@
+{
+    "emmet.showSuggestionsAsSnippets": true,
+    "emmet.triggerExpansionOnTab": true,
+    "emmet.useInlineCompletions": true,
+    "compile-hero.disable-compile-files-on-did-save-code": false,
+    "editor.fontSize": 20,
+    "editor.fontFamily": "JetBrains Mono",
+    "terminal.integrated.fontFamily": "monospace"
+}
